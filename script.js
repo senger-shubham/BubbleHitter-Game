@@ -1,4 +1,4 @@
-var timer=15;
+var timer=60;
 var timeout=5;
 
 var score=0;
